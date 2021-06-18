@@ -1,0 +1,12 @@
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.AssemblyInfoInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.AssemblyInfo.cs
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.csproj.CoreCompileInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\bin\Debug\net5.0\C.Tool.Mailer.deps.json
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\bin\Debug\net5.0\C.Tool.Mailer.dll
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\bin\Debug\net5.0\ref\C.Tool.Mailer.dll
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\bin\Debug\net5.0\C.Tool.Mailer.pdb
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.dll
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\ref\C.Tool.Mailer.dll
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.pdb
+C:\Users\Lloyd\Desktop\GestProject\C.Tool.Mailer\obj\Debug\net5.0\C.Tool.Mailer.csprojAssemblyReference.cache
